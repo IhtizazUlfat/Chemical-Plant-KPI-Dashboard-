@@ -6,6 +6,7 @@ This project is an industrial-style Microsoft Excel dashboard developed to analy
 The project demonstrates practical Excel skills commonly used in engineering, manufacturing, and process industries.
 
 Objectives
+
 Monitor plant performance
 Analyze production trends
 Track energy consumption
@@ -13,7 +14,9 @@ Measure equipment downtime
 Evaluate product quality
 Generate management reports
 Improve operational decision making
+
 Features
+
 Interactive KPI Dashboard
 Dynamic Charts
 PivotTables & PivotCharts
@@ -37,7 +40,9 @@ Production Cost
 Shift Performance
 Unit-wise Production
 Monthly Production Trend
+
 Excel Skills Demonstrated
+
 Pivot Tables
 Pivot Charts
 XLOOKUP / INDEX-MATCH
