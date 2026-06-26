@@ -1,76 +1,21 @@
 # Chemical Plant KPI Dashboard
+
 Overview
 
-This project is an industrial-style Microsoft Excel dashboard developed to analyze the operational performance of a chemical manufacturing plant. The workbook uses realistic production data over a one-year period and converts raw operational information into meaningful Key Performance Indicators (KPIs) for decision-making.
+This project is an industrial-style Microsoft Excel dashboard developed to analyze the operational performance of a chemical manufacturing plant. Using a year of realistic operational data, the workbook transforms raw production data into meaningful Key Performance Indicators (KPIs) that support performance monitoring and decision-making. The project was created to demonstrate practical Excel skills used in engineering, manufacturing, and process industries.
 
-The project demonstrates practical Excel skills commonly used in engineering, manufacturing, and process industries.
+Project Features
 
-Objectives
+The dashboard provides an interactive overview of plant performance through dynamic charts, PivotTables, PivotCharts, conditional formatting, data validation, and advanced Excel formulas. It allows users to evaluate production output, equipment downtime, energy consumption, product quality, shift performance, and monthly trends in a clear and organized format.
 
-Monitor plant performance
-Analyze production trends
-Track energy consumption
-Measure equipment downtime
-Evaluate product quality
-Generate management reports
-Improve operational decision making
-
-Features
-
-Interactive KPI Dashboard
-Dynamic Charts
-PivotTables & PivotCharts
-Conditional Formatting
-Advanced Excel Formulas
-Data Validation
-Slicers & Filters
-Trend Analysis
-Monthly Performance Reports
-Production Efficiency Analysis
-KPIs Included
-Total Production
-Plant Availability
-Downtime
-Overall Equipment Effectiveness (OEE)
-Steam Consumption
-Power Consumption
-Product Yield
-Defect Rate
-Production Cost
-Shift Performance
-Unit-wise Production
-Monthly Production Trend
-
-Excel Skills Demonstrated
-
-Pivot Tables
-Pivot Charts
-XLOOKUP / INDEX-MATCH
-SUMIFS
-COUNTIFS
-IF / IFS
-Dynamic Named Ranges
-Dashboard Design
-Data Cleaning
-Conditional Formatting
-Charts
-Data Analysis
-KPI Reporting
 Dataset
 
-The dataset consists of one year of simulated industrial process data representing daily operations of a chemical manufacturing facility. Variables include:
+The workbook uses a simulated dataset representing one year of daily operations in a chemical manufacturing facility. The data includes production output, steam and electricity consumption, operating hours, equipment downtime, production units, work shifts, and quality metrics. The values were generated to resemble realistic industrial operating conditions and are intended solely for educational and portfolio purposes.
 
-Production Output
-Steam Consumption
-Electricity Usage
-Equipment Downtime
-Shift
-Production Unit
-Quality Metrics
-Operating Hours
+Skills Demonstrated
 
-The data was generated to closely resemble realistic industrial operating conditions for learning and portfolio purposes.
+This project demonstrates proficiency in Microsoft Excel through data cleaning, data analysis, dashboard development, PivotTables, PivotCharts, lookup and aggregation functions, conditional formatting, KPI reporting, and data visualization. It also highlights the ability to organize engineering data into meaningful reports that support operational analysis and management decisions.
 
-Purpose
+Project Objective
 
-This project was created to strengthen practical Microsoft Excel skills applicable to chemical engineering, manufacturing, operations, and process industries while demonstrating the ability to transform raw operational data into actionable business insights.
+The objective of this project is to simulate a real-world industrial reporting environment and showcase the use of Microsoft Excel as a tool for analyzing manufacturing data. It reflects the type of reporting and performance monitoring commonly performed in chemical processing and manufacturing industries.
